@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3000">
+        <defs>
+            <style>
+                @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");
+            </style>
+            <filter id="shadow">
+            <feDropShadow dx="0.2" dy="0.4" stdDeviation="0.2" />
+            </filter>
+        </defs>
+        <style><![CDATA[svg text{stroke:none}]]></style>
+    <line x1="820" y1="40" x2="820" y2="80" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="820" y1="120" x2="820" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="160" x2="340" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="820" y1="140" x2="340" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="200" x2="340" y2="240" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="280" x2="340" y2="320" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="360" x2="340" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="100" y1="400" x2="100" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="380" x2="100" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="100" y1="440" x2="100" y2="480" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="360" x2="340" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="460" y1="400" x2="460" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="380" x2="460" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="460" y1="440" x2="460" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="340" y1="480" x2="340" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="460" y1="460" x2="340" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="460" y1="440" x2="460" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="580" y1="480" x2="580" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="460" y1="460" x2="580" y2="460" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="820" y1="120" x2="820" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="160" x2="1180" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="820" y1="140" x2="1180" y2="140" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="200" x2="1180" y2="240" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="280" x2="1180" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="820" y1="320" x2="820" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="300" x2="820" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="280" x2="1180" y2="320" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="360" x2="1180" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1060" y1="400" x2="1060" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="380" x2="1060" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="360" x2="1180" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1300" y1="400" x2="1300" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="380" x2="1300" y2="380" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="280" x2="1180" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1540" y1="320" x2="1540" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <line x1="1180" y1="300" x2="1540" y2="300" stroke="black" style="filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);" />
+    <rect x="720" y="0" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="820" y="14" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">applicationShellWidgetClass</text>
+    <rect x="720" y="80" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="820" y="94" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateMainWindow</text>
+    <rect x="240" y="160" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="340" y="174" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedFrame</text>
+    <rect x="240" y="240" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="340" y="254" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedPanedWindow</text>
+    <rect x="240" y="320" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="340" y="334" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedPanedWindow2</text>
+    <rect x="0" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="100" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateScrolledWindow</text>
+    <rect x="0" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="100" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedList</text>
+    <rect x="360" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="460" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedScrolledWindow</text>
+    <rect x="240" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="340" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedScrollBar</text>
+    <rect x="480" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="580" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedDrawingArea</text>
+    <rect x="1080" y="160" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1180" y="174" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedFrame2</text>
+    <rect x="1080" y="240" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1180" y="254" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">xmVaCreateManagedLabelGadget</text>
+    <rect x="720" y="320" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="820" y="334" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">bacb8beb-1455-4af1-8916-68b5243644b2</text>
+    <rect x="720" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="820" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+    <rect x="720" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="820" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+    <rect x="1080" y="320" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1180" y="334" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">581a4af0-1c32-4860-a5d1-e4c99709715d</text>
+    <rect x="960" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1060" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">f7387b1f-c99d-4588-97d7-3d5097e4d445</text>
+    <rect x="960" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1060" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+    <rect x="1200" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1300" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">5b722ca2-a2ad-4e6d-835f-79a9b5916fca</text>
+    <rect x="1200" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1300" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+    <rect x="1440" y="320" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1540" y="334" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">e3a2d431-2549-40b0-ac8f-8ba486aef03f</text>
+    <rect x="1440" y="400" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1540" y="414" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+    <rect x="1440" y="480" width="200" height="40" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;filter: drop-shadow(rgba(0, 0, 0, 0.25) 2px 3px 2px);fill: rgb(254, 245, 219);stroke: rgb(228, 220, 197);stroke-width: 1;" />
+    <text x="1540" y="494" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">{DUMMY}</text>
+</svg> 

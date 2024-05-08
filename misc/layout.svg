@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+    <defs>
+        <style>
+            @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i");
+        </style>
+    </defs>
+    <style><![CDATA[svg text{stroke:none}]]></style>
+
+    <!-- Line between Node.1 and Node.2-->
+    <line x1="675" x2="675" y1="51" y2="99" stroke="black" />
+
+    <!-- Node.1 -->
+    <rect x="550" y="0" width="250" height="50" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;" />
+    <!-- 1st line -->
+    <text x="675" y="16" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">applicationShellWidgetClass</text>
+    <!-- 2nd line -->
+    <text x="675" y="40" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">size:5; groupSize:23; y:0; x:10.5;</text>
+
+    <!-- Node.2 -->
+    <rect x="550" y="100" width="250" height="50" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;" />
+    <!-- 1st line -->
+    <text x="675" y="116" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">XmVaCreateMainWindow</text>
+    <!-- 2nd line -->
+    <text x="675" y="140" font-family="Consolas, Courier-New, monospace" font-size="10px" text-anchor="middle">size:5; groupSize:23; y:2; x:10.5</text>    
+</svg> 

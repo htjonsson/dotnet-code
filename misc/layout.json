@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0",
+        "text" : "applicationShellWidgetClass",
+        "parent_id" : ""
+    },
+    {
+        "id" : "1",
+        "text" : "XmVaCreateMainWindow",
+        "parent_id" : "0"
+    },
+    {
+        "id" : "2",
+        "text" : "XmVaCreateManagedFrame",
+        "parent_id" : "1"
+    },
+    {
+        "id" : "3",
+        "text" : "XmVaCreateManagedPanedWindow",
+        "parent_id" : "2"
+    },
+    {
+        "id" : "4",
+        "text" : "XmVaCreateManagedPanedWindow",
+        "parent_id" : "3"
+    },    
+    {
+        "id" : "5",
+        "text" : "XmVaCreateScrolledWindow",
+        "parent_id" : "4"
+    },
+    {
+        "id" : "6",
+        "text" : "XmVaCreateManagedList",
+        "parent_id" : "5"
+    },    
+    {
+        "id" : "7",
+        "text" : "XmVaCreateManagedScrolledWindow",
+        "parent_id" : "4"
+    }, 
+    {
+        "id" : "8",
+        "text" : "XmVaCreateManagedScrollBar",
+        "parent_id" : "7"
+    }, 
+    {
+        "id" : "9",
+        "text" : "XmVaCreateManagedDrawingArea",
+        "parent_id" : "7"
+    },
+    {
+        "id" : "10",
+        "text" : "XmVaCreateManagedFrame",
+        "parent_id" : "1"
+    },     
+    {
+        "id" : "11",
+        "text" : "XmVaCreateManagedLabelGadget",
+        "parent_id" : "10"
+    }
+]
